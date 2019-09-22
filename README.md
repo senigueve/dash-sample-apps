@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/senigueve/dash-sample-apps/master?urlpath=lab)
+
 # Dash Sample Apps
 
 This is a monorepo designed to host all of the apps that have been
